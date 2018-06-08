@@ -1,3 +1,3 @@
 # hello-world
 tutorial repository
-My name is George and I like to say "That's some ole bull!", "Come on Man" and "Aw Hell!".
+Simple example of using Python to interact with a basic SQLLite database.
